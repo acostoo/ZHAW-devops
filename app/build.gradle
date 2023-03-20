@@ -15,8 +15,6 @@ dependencies {
     //added
     implementation 'com.indvd00m.ascii.render:ascii-render:2.2.0'
     //added
-    implementation 'org.springframework.boot:spring-boot-starter-web'
-    testImplementation ('org.springframework.boot:spring-boot-starter-test')
 }
 
 application {
