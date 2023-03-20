@@ -41,7 +41,7 @@ dependencies {
 
 application {
     // Define the main class for the application.
-    mainClass = 'DevOpsBuild.App'
+    mainClass = 'gradle-project.App'
 }
 
 tasks.named('test') {
