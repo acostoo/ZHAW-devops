@@ -16,5 +16,5 @@ dependencies {
 
 application {
     // Define the main class for the application.
-    mainClass = 'DevOpsBuild.App'
+    mainClass = 'zhaw.gradle.App'
 }
