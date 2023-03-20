@@ -13,7 +13,7 @@ dependencies {
     // This dependency is used by the application.
     implementation 'com.google.guava:guava:30.1.1-jre'
     //added
-    implementation 'com.indvd00m.ascii.render:ascii-render:2.2.0'
+    implementation 'com.indvd00m.ascii.render:ascii-render'
     //added
 }
 
