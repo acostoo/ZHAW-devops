@@ -10,7 +10,6 @@ public class App {
 
     public static void main(String[] args) {
         System.out.println(new App().getGreeting());
-        
 		IRender render = new Render();
 		IContextBuilder builder = render.newBuilder();
 		builder.width(120).height(20);
