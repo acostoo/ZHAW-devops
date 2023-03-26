@@ -4,4 +4,4 @@ Hello World
 =======
 Hello World :)
 
-Pull request for main
+Gradle and NPM Projects are done and listed in this Repository.
